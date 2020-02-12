@@ -1,13 +1,11 @@
 body
 {
-     color: aqua;
+     color: rgb(183, 0, 255);
      text-align: center;
-     font-family: courier;
+     font-family: "Arial";
      margin: 0;
      padding: 0;
 }
-<<<<<<< HEAD
-=======
 #cabecera
 {
     background: blueviolet;
@@ -24,7 +22,6 @@ body
     font-weight: normal;
     font-size: 0.0em;
 }
->>>>>>> cabecera
 #container
 {
      width: 70%;
